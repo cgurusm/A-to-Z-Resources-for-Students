@@ -72,6 +72,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning) **FREE**
+    - [TensorFlow](https://www.tensorflow.org)
 
 -  **Best Github Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
