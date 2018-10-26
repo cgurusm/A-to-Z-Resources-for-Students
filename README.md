@@ -100,6 +100,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
+    - **Neural Networks**
+    - [Neural Networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 
 ## 1.4 Android Development
