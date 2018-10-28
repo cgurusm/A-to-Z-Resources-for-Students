@@ -71,6 +71,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
+    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning) **FREE**
+    - [TensorFlow](https://www.tensorflow.org)
 
 -  **Best Github Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -90,6 +92,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
+    - [Neural Networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 -  **Best Github Repositories to follow**
     - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
