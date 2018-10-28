@@ -92,6 +92,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
+    - [Neural Networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 -  **Best Github Repositories to follow**
     - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
@@ -100,8 +101,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
-    - **Neural Networks**
-    - [Neural Networks and deep learning](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 
 ## 1.4 Android Development
